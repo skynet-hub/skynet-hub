@@ -35,7 +35,7 @@ I'm currently focused on:
 
 I'm always open to collaboration, feedback, and learning from others. Check out my repositories to see what I’m working on, and feel free to reach out!
 
-- 📫 Reach me via GitHub or [add LinkedIn/email/portfolio link]
+- 📫 Reach me via GitHub or [https://www.linkedin.com/in/magobo-lesaomako/]
 
 ---
 
