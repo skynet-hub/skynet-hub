@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Magobo Lesaomako]
+# 👋 Hi there! I'm Magobo Lesaomako
 
 🎓 I'm a second-year Software Engineering student at [WeThinkCode_](https://www.wethinkcode.co.za), and I’ll be starting a **Bachelor’s in Computer Science** at the [International University of Applied Sciences (IU)](https://www.iu.org) this October.
 
