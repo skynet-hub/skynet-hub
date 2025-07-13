@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Magobo Lesaomako]
 
-<!--
-**skynet-hub/skynet-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a second-year Software Engineering student at [WeThinkCode_](https://www.wethinkcode.co.za), and I’ll be starting a **Bachelor’s in Computer Science** at the [International University of Applied Sciences (IU)](https://www.iu.org) this October.
 
-Here are some ideas to get you started:
+## 🧠 What I Know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, Python, Java  
+- **Web Development:** React.js, MERN Stack (MongoDB, Express, React, Node.js)  
+- **DevOps & Systems:**  
+  - Linux fundamentals & shell scripting  
+  - Docker & containerization  
+  - CI/CD pipelines  
+- **Tools & Tech:** Git, GitHub, VS Code, Postman  
+
+## 🚀 What I'm Learning
+
+- **Languages:**  
+  - C (for low-level systems projects)  
+  - Dart & Flutter (for mobile development)  
+- **DevOps & Infrastructure:**  
+  - Kubernetes (just getting started!)  
+  - Advanced Docker & automation  
+
+## 🛠️ Projects and Goals
+
+I'm currently focused on:
+- Building low-level projects in **C**
+- Developing **containerized applications** with Docker
+- Learning the fundamentals of **Kubernetes**
+- Creating cross-platform mobile apps with **Flutter**
+- Working on legacy code for my school projects
+- My portfolio using Flask and React
+
+## 🌱 Let’s Connect
+
+I'm always open to collaboration, feedback, and learning from others. Check out my repositories to see what I’m working on, and feel free to reach out!
+
+- 📫 Reach me via GitHub or [add LinkedIn/email/portfolio link]
+
+---
+
+Thanks for visiting! 🚀
