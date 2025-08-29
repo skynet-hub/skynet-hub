@@ -66,19 +66,6 @@ const magobo = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagoboLesaomako&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagoboLesaomako&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagoboLesaomako&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 <table>
@@ -113,7 +100,7 @@ const magobo = {
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🏗️ **Portfolio Website** | Personal portfolio showcasing my work | Flask, React, Docker |
-| 📱 **Mobile Task Manager** | Cross-platform productivity app | Flutter, Dart |
+| 📱 **Interview platform** | Mern stack nterview platform | MangoDb, React, Nodejs, express.js |
 | 🐧 **System Utils in C** | Collection of Linux system utilities | C, Shell scripting |
 | 🔄 **CI/CD Pipeline** | Automated deployment pipeline | Docker, GitHub Actions |
 
@@ -121,21 +108,13 @@ const magobo = {
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
-- [ ] 🎓 Complete Bachelor's degree at IU
-- [ ] 🏆 Contribute to 5 open-source projects
-- [ ] 📱 Launch my first mobile app
-- [ ] ☁️ Get AWS certification
-- [ ] 🤝 Mentor junior developers
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagoboLesaomako&theme=tokyo-night&hide_border=true" />
-</div>
+- [ ] 🎓 Start Bachelor's degree at IU
+- [ ] 🏆 Build 5 mini full stack projects
+- [ ] 📱 Deploy my portfolio
+- [ ] ☁️ Complete Studies at Wethinkcode
+- [ ] 🤝 Mentor starters in Tech field
 
 ---
 
