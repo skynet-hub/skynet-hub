@@ -1,79 +1,174 @@
 <div align="center">
 
-# 👋 Hi there! I'm Magobo Lesaomako
+# 👋 Hey there! I'm Magobo Lesaomako
 
-🎓 A passionate **2nd-Year Software Engineering Student** at WeThinkCode_  
-🚀 Starting my **Bachelor’s in Computer Science** at IU this October!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+
+🎓 **2nd-Year Software Engineering Student** at WeThinkCode_  
+🚀 Starting **Bachelor's in Computer Science** at IU this October!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magobo-lesaomako/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MagoboLesaomako)
 
 </div>
 
 ---
 
-## 💡 What I Know
+## 🚀 About Me
 
-### 🧱 Languages
-- JavaScript ⚡
-- Python 🐍
-- Java ☕
-
-### 🌐 Web Development
-- React.js 💙
-- MERN Stack: MongoDB 🌲 | Express 🚀 | React 💙 | Node.js 🟩
-
-### 🛠️ DevOps & Systems
-- Linux fundamentals & shell scripting 🐧
-- Docker 🐳
-- CI/CD pipelines 🔄
-
-### 🧰 Tools & Tech
-- Git & GitHub 📦
-- VS Code 🎨
-- Postman 🧪
+\`\`\`javascript
+const magobo = {
+    pronouns: "he/him",
+    location: "South Africa",
+    education: ["WeThinkCode_", "IU International University"],
+    currentFocus: ["Low-level programming", "Mobile development", "DevOps"],
+    funFact: "I love turning coffee into code! ☕→💻"
+};
+\`\`\`
 
 ---
 
-## 🔥 What I'm Learning
+## 🛠️ Tech Stack
 
-### 🧑‍💻 Languages
-- C 🧱 *(for low-level systems projects)*
-- Dart 🎯 & Flutter 📱 *(for mobile development)*
+### 💻 Languages
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
-### 🌐 DevOps & Infrastructure
-- Kubernetes 🧭 *(just getting started!)*
-- Advanced Docker 🐳 & automation
+### 🌐 Frontend & Mobile
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
----
+### ⚙️ Backend & Database
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-## 🛠️ Projects & Goals
-
-I'm currently focused on:
-
-- 🔧 Building low-level projects in **C**
-- 📦 Developing containerized applications with **Docker**
-- 🚀 Learning the fundamentals of **Kubernetes**
-- 📲 Creating cross-platform mobile apps with **Flutter**
-- 🧼 Working on legacy code for school projects
-- 🖼️ Building my portfolio using **Flask** and **React**
-
----
-
-## 🌱 Let's Connect!
-
-💬 Always open to collaboration, feedback, and learning from others.
-
-📫 Reach me via:
-- [GitHub](https://github.com/MagoboLesaomako )
-- [LinkedIn](https://www.linkedin.com/in/magobo-lesaomako/ )
-
-<a href="https://www.linkedin.com/in/magobo-lesaomako/ ">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
-<a href=" https://github.com/MagoboLesaomako ">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub Badge"/>
-</a>
+### 🔧 DevOps & Tools
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-✨ Thanks for visiting! Keep coding, keep learning, and let's build cool stuff together! 🚀
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagoboLesaomako&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagoboLesaomako&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagoboLesaomako&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Focus Areas
+- 🧱 **Low-level programming** with C
+- 📱 **Mobile development** with Flutter
+- ☸️ **Container orchestration** with Kubernetes
+- 🔄 **Advanced CI/CD** pipelines
+
+</td>
+<td width="50%">
+
+### 📚 Next on My List
+- 🦀 Rust programming language
+- ☁️ Cloud platforms (AWS/Azure)
+- 🧠 Machine Learning fundamentals
+- 🔐 Cybersecurity principles
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚧 Current Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏗️ **Portfolio Website** | Personal portfolio showcasing my work | Flask, React, Docker |
+| 📱 **Mobile Task Manager** | Cross-platform productivity app | Flutter, Dart |
+| 🐧 **System Utils in C** | Collection of Linux system utilities | C, Shell scripting |
+| 🔄 **CI/CD Pipeline** | Automated deployment pipeline | Docker, GitHub Actions |
+
+</div>
+
+---
+
+## 🎯 2024 Goals
+
+- [ ] 🎓 Complete Bachelor's degree at IU
+- [ ] 🏆 Contribute to 5 open-source projects
+- [ ] 📱 Launch my first mobile app
+- [ ] ☁️ Get AWS certification
+- [ ] 🤝 Mentor junior developers
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagoboLesaomako&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+💬 **Always open to collaboration, feedback, and learning from others!**
+
+<p>
+  <a href="https://www.linkedin.com/in/magobo-lesaomako/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Drop_a_Line-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/MagoboLesaomako">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=MagoboLesaomako&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+**Thanks for visiting! Keep coding, keep learning, and let's build amazing things together! 🚀**
+
+</div>
