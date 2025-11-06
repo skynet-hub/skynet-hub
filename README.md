@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 
 🎓 **2nd-Year Software Engineering Student** at WeThinkCode_  
-🚀 Starting **Bachelor's in Computer Science** at IU this October!
+🚀 **Bachelor's in Computer Science** at IU!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magobo-lesaomako/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MagoboLesaomako)
