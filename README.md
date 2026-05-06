@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 
-🎓 **2nd-Year Software Engineering Student** at WeThinkCode_  
-🚀 **Bachelor's in Computer Science** at IU!
+🎓 **Software Engineering Graduate** @ WeThinkCode_  
+💼 **Software Engineer** @ Computro (Pty) Ltd
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magobo-lesaomako/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MagoboLesaomako)
@@ -20,7 +20,7 @@
 const magobo = {
     pronouns: "he/him",
     location: "South Africa",
-    education: ["WeThinkCode_", "IU International University"],
+    education: ["WeThinkCode_", "University of the Witwatersrand"],
     currentFocus: ["Low-level programming", "Mobile development", "DevOps"],
     funFact: "I love turning coffee into code! ☕→💻"
 };
@@ -113,13 +113,13 @@ const magobo = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-- [ ] 🎓 Start Bachelor's degree at IU
-- [ ] 🏆 Build 5 mini full stack projects
-- [ ] 📱 Deploy my portfolio
-- [ ] ☁️ Complete Studies at Wethinkcode
-- [ ] 🤝 Mentor starters in Tech field (Tech mentor at Wethinkcode)
+- [ ]  Build 5 full stack projects
+- [ ]  Build system programs
+- [ ]  Deploy my portfolio
+- [ ]  Complete an Internship (Gain hands on experience)
+- [ ]  Mentor starters in Tech field (Tech mentor at Wethinkcode)
 
 ---
 
