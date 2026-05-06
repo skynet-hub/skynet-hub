@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Magobo Lesaomako
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineering+Intern;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 
 🎓 **Software Engineering Graduate** @ WeThinkCode_  
 💼 **Software Engineer** @ Computro (Pty) Ltd
